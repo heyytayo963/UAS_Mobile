@@ -10,7 +10,7 @@ import com.google.android.exoplayer2.ui.StyledPlayerView;
 public class TrailerActivity extends AppCompatActivity {
 
     private ExoPlayer player;
-    private int videoRawResourceId = R.raw.cts;
+    private int videoRawResourceId = R.raw.mma;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
